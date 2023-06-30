@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A Data Science and Machine Learning enthusiast.</h3>
 
+---
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphiree&label=Profile%20views&color=0e75b6&style=flat" alt="alphiree" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
